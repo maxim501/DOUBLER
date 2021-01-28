@@ -266,6 +266,30 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Kate.png",
     "pack": "For Girls"
   },
+    {
+    "name": "Hamburger",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Hamburger1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Hamburger.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "HotDog",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/HotDog1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/HotDog.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "PepeHouse",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PepeHouse1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/PepeHouse.png",
+    "pack": "Funny"
+  },
+    {
+    "name": "Wafer",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Wafer1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/Wafer.png",
+    "pack": "Funny"
+  },
       {
     "name": "BlueEvil",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/Funny/BlueEvil1.png",
