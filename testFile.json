@@ -193,6 +193,54 @@
     "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Boys/teddybear.png",
     "pack": "For Boys"
   },
+    {
+    "name": "Daenerys",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Daenerys1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Daenerys.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "DinoGirl",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/DinoGirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/DinoGirl.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "HotCoffee",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/HotCoffee1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/HotCoffee.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "K-pop",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/K-pop1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/K-pop.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "K-popGir",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/K-popGirl1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/K-popGirl.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "Pajamas",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Pajamas1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Pajamas.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "Peace",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Peace1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/Peace.png",
+    "pack": "For Girls"
+  },
+     {
+    "name": "PinkBlack",
+    "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PinkBlack1.png",
+    "urlSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/PinkBlack.png",
+    "pack": "For Girls"
+  },
       {
     "name": "CuteWhite",
     "urlPreviewSkin": "https://raw.githubusercontent.com/GSdoubler/DOUBLER/main/For%20Girls/CuteWhite1.png",
